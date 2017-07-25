@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/admin/0/pane",
+      "value": "/interface/cockpit/cockpit.config"
+    },
+    {
+      "op": "move",
+      "from": "/admin/0",
+      "path": "/normal/-"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/admin/0/pane",
+      "value": "/interface/scripted/techupgrade/techupgradegui.config"
+    },
+    {
+      "op": "move",
+      "from": "/admin/0",
+      "path": "/normal/-"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/admin/0/pane",
+      "value": "/interface/scripted/mechassembly/mechassemblygui.config"
+    },
+    {
+      "op": "move",
+      "from": "/admin/0",
+      "path": "/normal/-"
+    }
+  ]
+]
