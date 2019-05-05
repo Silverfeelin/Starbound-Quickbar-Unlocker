@@ -1,12 +1,11 @@
 {
   "author" : "Silverfeelin",
-  "description" : "Unlocks the Ship Remote Control, Tech Panel and Mech Assembly interface, without having to be in admin mode.",
+  "description" : "Unlocks the Tech Panel and Mech Assembly interface, without having to be in admin mode.",
   "friendlyName" : "Quickbar Unlocker",
   "name" : "QuickbarUnlocker",
   "includes" : [
     "QuickbarMini",
     "StardustLib"
   ],
-  "priority": -100,
-  "version" : "Alpha v0.20"
+  "version" : "Alpha v0.36"
 }
