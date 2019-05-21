@@ -5,9 +5,8 @@
       "path": "/items/starbound:techpanel/condition"
     },
     {
-      "op": "replace",
-      "path": "/items/starbound:techpanel/condition",
-      "value": [ "ownShip" ]
+      "op": "remove",
+      "path": "/items/starbound:techpanel/condition"
     }
   ],
   [
