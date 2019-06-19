@@ -2,6 +2,25 @@
   [
     {
       "op": "test",
+      "path": "/items/starbound:navigation/condition"
+    },
+    {
+      "op": "test",
+      "path": "/items/starbound:navigation/condition/1"
+    },
+    {
+      "op": "test",
+      "path": "/items/starbound:navigation/condition/1/0",
+      "value": "admin"
+    },
+    {
+      "op": "remove",
+      "path": "/items/starbound:navigation/condition/1"
+    }
+  ],
+  [
+    {
+      "op": "test",
       "path": "/items/starbound:techpanel/condition"
     },
     {
